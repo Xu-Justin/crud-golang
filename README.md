@@ -4,7 +4,7 @@ This project is a basic example of performing CRUD and REST API using Go languag
 
 ## Usage
 
-Run the following commands to download required packege.
+Run the following commands to download required package.
 
 ```bash
 go mod download

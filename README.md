@@ -1,6 +1,6 @@
 # crud-golang
 
-This project is a basic example of performing CRUD and REST API using Go language.
+This project is a basic example of performing CRUD and API using Go language.
 
 ## Usage
 
